@@ -1,0 +1,12 @@
+{
+    "paymentData.paymentGroup.title": "NetPay Checkout",
+    "paymentData.paymentGroup.debitoBancario.title": "NetPay Checkout",
+    "paymentData.paymentGroup.debitoBancario.redirectInstructions": "By clicking on 'Checkout' you will be redirected to NetPay to make the payment with the method you prefer.",
+    "paymentData.paymentGroup.debitoBancario.guaranteed": "Card payment:",
+    "paymentData.paymentGroup.debitoBancario.beCool": "Make your payment by credit or debit card Visa, MasterCard and AMEX.",
+    "paymentData.paymentGroup.debitoBancario.fast": "Installments:",
+    "paymentData.paymentGroup.debitoBancario.authorizeViaInternetBanking": "Make your payment in monthly installments with no interest using your credit card (only when store conditions apply).",
+    "paymentData.paymentGroup.debitoBancario.safe": "Cash payment:",
+    "paymentData.paymentGroup.debitoBancario.noRegisterNeeded": "You can make your payment by cash in more than 29,000 stores.",
+    "paymentData.paymentGroup.debitoBancario.contact": "Secure shopping with NetPay."
+}
