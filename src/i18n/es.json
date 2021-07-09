@@ -1,7 +1,7 @@
 {
     "paymentData.paymentGroup.title": "NetPay Checkout",
     "paymentData.paymentGroup.debitoBancario.title": "NetPay Checkout",
-    "paymentData.paymentGroup.debitoBancario.redirectInstructions": "Al hacer clic en 'Finalizar compra' serás redireccionado a NetPay para realizar el pago con el método de pago que prefieras.",
+    "paymentData.paymentGroup.debitoBancario.redirectInstructions": "Al hacer clic en 'Comprar Ahora' serás redireccionado a NetPay para realizar el pago con el método de pago que prefieras.",
     "paymentData.paymentGroup.debitoBancario.guaranteed": "Pago con tarjeta:",
     "paymentData.paymentGroup.debitoBancario.beCool": "Realiza tu pago con tarjeta de crédito o débito Visa, MasterCard y AMEX.",
     "paymentData.paymentGroup.debitoBancario.fast": "Meses Sin Intereses:",
